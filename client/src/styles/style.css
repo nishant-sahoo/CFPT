@@ -1,0 +1,13 @@
+.page-min-height {
+    min-height: calc(100vh - 75px);
+}
+
+.footer-pin {
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
+
+.icon {
+    background-color: white;
+}
